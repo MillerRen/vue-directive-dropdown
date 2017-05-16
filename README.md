@@ -1,6 +1,6 @@
 # vue-directive-dropdown
 
-> a vue dropdwon directive
+> a dropdwon directive for vue 2.x
 
 ## Usage
 ``` javascript

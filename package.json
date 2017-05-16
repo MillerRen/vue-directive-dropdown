@@ -1,7 +1,7 @@
 {
   "name": "vue-directive-dropdown",
   "version": "1.0.0",
-  "description": "a vue dropdwon directive",
+  "description": "a dropdwon directive for vue 2.x",
   "author": "MillerRen <ren12345@126.com>",
   "main": "lib/vue-directive-dropdown.js",
   "private": false,
