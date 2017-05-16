@@ -8,7 +8,7 @@ import Dropdown from 'vue-directive-dropdwon'
 Vue.directive('dropdown', Dropdown)
 ```
 ``` html
-&lt;div class="btn-group" v-dropdown="'open'"&gt;
+<div class="btn-group" v-dropdown="'open'">
 ```
 
 ## Build Setup
