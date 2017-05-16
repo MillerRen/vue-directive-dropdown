@@ -2,6 +2,15 @@
 
 > a vue dropdwon directive
 
+## Usage
+``` javascript
+import Dropdown from 'vue-directive-dropdwon'
+Vue.directive('dropdown', Dropdown)
+```
+``` html
+&lt;div class="btn-group" v-dropdown="'open'"&gt;
+```
+
 ## Build Setup
 
 ``` bash
