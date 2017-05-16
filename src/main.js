@@ -2,7 +2,10 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
+import 'bootstrap/dist/css/bootstrap.css'
+import Dropdown from './directives/dropdown'
 
+Vue.directive('dropdown', Dropdown)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
